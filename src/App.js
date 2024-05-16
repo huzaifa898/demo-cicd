@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <p>Hello React to CI CD</p>
       <p>Hello 2</p>
+      <p>Hello 2</p>
     </div>
   );
 }
